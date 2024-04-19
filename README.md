@@ -2,7 +2,7 @@ I Created a sipmle UI for use Chat GPT in Python.
 This only supports for text type messages.
 
 Copy the code and Replace your API key from Chat gpt.
-You can find your API key at https://platform.openai.com/account/api-keys
+You can find your API key at https://platform.openai.com/account/api-keys (Click on Create API key button & the API will generate)
 
 ![Screenshot (40)](https://github.com/KUDewmina/UI-for-Chat-GPT/assets/165687248/6dd5493a-f43a-444f-9bb3-38fc9a942ade)
 
